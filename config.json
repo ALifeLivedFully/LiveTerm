@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/ALifeLivedFully/ALifeLivedFully/main/Readme.md",
+  "title": "ALifeLivedFully",
+  "name": "Dani Morrison",
+  "ascii": "ALifeLivedFully",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "ALifeLivedFully",
+    "linkedin": "ALifeLivedFully"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "email": "ALifeLivedFully@protonmail.com",
+  "ps1_hostname": "ALifeLivedFully",
+  "ps1_username": "Visitor",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+  "support_urls": {
+    "venmo": "https://venmo.com/ALifeLivedFully",
+    "paypal": "https://paypal.me/ALifeLivedFully",
+    "patreon": "https://patreon.com/ALifeLivedFully"
   },
   "colors": {
     "light": {
